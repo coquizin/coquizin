@@ -1,10 +1,10 @@
 <img src="codesleep.gif"  width = "325px" align = "right"/>
 <h1>Welcome, I am Cauli. 🌹</h1>
 <div id="badges">
-  <a target="_blank" href = "https://www.linkedin.com/in/caulivilelaferreira/">
+  <a target = "_blank" href = "https://www.linkedin.com/in/caulivilelaferreira/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a target="_blank" href = "https://twitter.com/coquizin">
+   <a target = "_blank" href = "https://twitter.com/coquizin">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
    

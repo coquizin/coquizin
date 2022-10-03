@@ -1,5 +1,6 @@
 <img src="codesleep.gif"  width = "325px" align = "right"/>
 <h1>Welcome, I am Cauli. 🌹</h1>
+<h2><a target="_blank" href="https://www.coquizin.works/">My portfolio</a></h2>
 <div id="badges">
   <a target = "_blank" href = "https://www.linkedin.com/in/caulivilelaferreira/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

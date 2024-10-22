@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working with React, TypeScript.<br>🤝 I’m looking for help with Back-End.<br>🌱 I’m currently learning Back-End.<br>💬 Ask me about League of Legends<br><a target="_blank" href="https://coquizin.vercel.app/">🌐 My portfolio</a>
+# 💫 About Me:<a target="_blank" href="https://coquizin.vercel.app/">🌐 My portfolio</a>
 
 
 ## 🌐 Socials: 
